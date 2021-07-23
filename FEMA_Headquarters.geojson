@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.018717, 38.886095]}, "properties": {"Region": "NA", "Name": "FEMA Headquarters", "Address": "500 C St. SW", "City-St-Zip": "Washington, DC 20472", "States": [""], "Last-Update": "2020-06-04T17:34:37.752Z"}}]}
